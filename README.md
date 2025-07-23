@@ -21,6 +21,7 @@
 El proyecto sigue una arquitectura desacoplada **cliente-servidor**:
 
 <img width="1056" height="529" alt="arquitectura" src="https://github.com/user-attachments/assets/95b0a136-40cb-497b-a16e-07f873c68b8e" />
+
 **Figura:** El frontend (React) se comunica vía REST con el backend (Node.js/Express), que gestiona MongoDB y el servicio de IA local (Ollama).
 
 ---
