@@ -71,7 +71,7 @@ Antes de comenzar, asegúrate de tener instalados:
    - **Terminal 2 (Backend):**  
      ```bash
      cd backend
-     npm start
+     node index.js
      ```
    - **Terminal 3 (Frontend):**  
      ```bash
