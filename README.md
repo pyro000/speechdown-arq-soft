@@ -1,4 +1,4 @@
-# SpeechDown: Apoyo Terapéutico del Habla con IA 🗣️✨
+# SpeechDown: Apoyo Terapéutico del Habla con IA
 
 **SpeechDown** es una aplicación web *full-stack* diseñada como herramienta de apoyo para la terapia del habla en niños con Síndrome de Down. Mediante inteligencia artificial generativa, genera ejercicios personalizados y adaptados al contexto latinoamericano, fomentando la práctica de fonemas y actividades lúdicas que refuerzan el aprendizaje.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🏗️ Diagrama de Arquitectura
+## Diagrama de Arquitectura
 
 El proyecto sigue una arquitectura desacoplada **cliente-servidor**:
 
@@ -25,7 +25,7 @@ El proyecto sigue una arquitectura desacoplada **cliente-servidor**:
 
 ---
 
-## 🚀 Prerrequisitos
+## Prerrequisitos
 
 Antes de comenzar, asegúrate de tener instalados:
 
@@ -36,7 +36,7 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ---
 
-## 🔧 Instalación y Despliegue
+## Instalación y Despliegue
 
 1. **Clonar el repositorio**  
    ```bash
@@ -82,7 +82,7 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ---
 
-## 🔄 Uso y Flujo de Trabajo
+## Uso y Flujo de Trabajo
 
 1. Ingresa datos básicos del paciente (nombre, edad, fonemas a practicar).  
 2. Selecciona el tipo de ejercicio (cuento, frases, vocabulario).  
@@ -91,7 +91,7 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ---
 
-## 🧠 Ejemplos de Prompts para la IA
+## Ejemplos de Prompts para la IA
 
 Actúa como un terapeuta del habla experto en síndrome de Down.  
 Tu tarea es crear un cuento corto (4 – 6 oraciones) para un niño de 6 años.
@@ -118,7 +118,7 @@ Pepe el pato puede pasear otra vez.”
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 1. Haz un _fork_ del proyecto.  
 2. Crea una rama con tu feature o fix:  
